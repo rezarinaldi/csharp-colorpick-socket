@@ -20,7 +20,8 @@ namespace ColorPickerSocket_Client
                 .Append(",")
                 .Append(txtGreenNumber.Text)
                 .Append(",")
-                .Append(txtBlueNumber.Text);
+                .Append(txtBlueNumber.Text)
+                .Append(",");
             SocketTCP.StartClient(color.ToString());
         }
 
@@ -33,14 +34,14 @@ namespace ColorPickerSocket_Client
         {
             ColorDialog colorDialog = new ColorDialog();
             colorDialog.FullOpen = true;
-            colorDialog.Color = panelColorSelected.BackColor;
+            colorDialog.Color = backgroundColorPanel.BackColor;
             if(colorDialog.ShowDialog() == DialogResult.OK)
             {
                 txtRedNumber.Text = colorDialog.Color.R.ToString();
                 txtGreenNumber.Text = colorDialog.Color.G.ToString();
                 txtBlueNumber.Text = colorDialog.Color.B.ToString();
 
-                panelColorSelected.BackColor = colorDialog.Color;
+                backgroundColorPanel.BackColor = colorDialog.Color;
             }
             MessageBox.Show("RGB Warna yang didapat adalah: " + colorDialog.Color.R.ToString() + ", " + colorDialog.Color.G.ToString() + ", " + colorDialog.Color.B.ToString());
 

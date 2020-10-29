@@ -32,7 +32,7 @@
             this.txtIPClient = new System.Windows.Forms.TextBox();
             this.txtPortClient = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.panelColorSelected = new System.Windows.Forms.Panel();
+            this.backgroundColorPanel = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.txtRedNumber = new System.Windows.Forms.TextBox();
             this.txtGreenNumber = new System.Windows.Forms.TextBox();
@@ -77,13 +77,13 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Port";
             // 
-            // panelColorSelected
+            // backgroundColorPanel
             // 
-            this.panelColorSelected.BackColor = System.Drawing.Color.DarkGray;
-            this.panelColorSelected.Location = new System.Drawing.Point(12, 44);
-            this.panelColorSelected.Name = "panelColorSelected";
-            this.panelColorSelected.Size = new System.Drawing.Size(312, 203);
-            this.panelColorSelected.TabIndex = 4;
+            this.backgroundColorPanel.BackColor = System.Drawing.Color.DarkGray;
+            this.backgroundColorPanel.Location = new System.Drawing.Point(12, 44);
+            this.backgroundColorPanel.Name = "backgroundColorPanel";
+            this.backgroundColorPanel.Size = new System.Drawing.Size(312, 203);
+            this.backgroundColorPanel.TabIndex = 4;
             // 
             // label3
             // 
@@ -177,7 +177,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtIPClient);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.panelColorSelected);
+            this.Controls.Add(this.backgroundColorPanel);
             this.Name = "Form1";
             this.Text = "Color Picker Client";
             this.ResumeLayout(false);
@@ -191,7 +191,7 @@
         private System.Windows.Forms.TextBox txtIPClient;
         private System.Windows.Forms.TextBox txtPortClient;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panelColorSelected;
+        private System.Windows.Forms.Panel backgroundColorPanel;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtRedNumber;
         private System.Windows.Forms.TextBox txtGreenNumber;

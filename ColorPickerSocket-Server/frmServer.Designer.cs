@@ -39,7 +39,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtIPServer = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.panelColorSelected = new System.Windows.Forms.Panel();
+            this.backgroundColorPanel = new System.Windows.Forms.Panel();
             this.btnListen = new System.Windows.Forms.Button();
             this.timerServer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
@@ -132,13 +132,13 @@
             this.label1.TabIndex = 13;
             this.label1.Text = "IP Address";
             // 
-            // panelColorSelected
+            // backgroundColorPanel
             // 
-            this.panelColorSelected.BackColor = System.Drawing.Color.Transparent;
-            this.panelColorSelected.Location = new System.Drawing.Point(14, 46);
-            this.panelColorSelected.Name = "panelColorSelected";
-            this.panelColorSelected.Size = new System.Drawing.Size(419, 213);
-            this.panelColorSelected.TabIndex = 17;
+            this.backgroundColorPanel.BackColor = System.Drawing.Color.Transparent;
+            this.backgroundColorPanel.Location = new System.Drawing.Point(14, 46);
+            this.backgroundColorPanel.Name = "backgroundColorPanel";
+            this.backgroundColorPanel.Size = new System.Drawing.Size(419, 213);
+            this.backgroundColorPanel.TabIndex = 17;
             // 
             // btnListen
             // 
@@ -171,7 +171,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtIPServer);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.panelColorSelected);
+            this.Controls.Add(this.backgroundColorPanel);
             this.Name = "Form1";
             this.Text = "Color Picker Server";
             this.ResumeLayout(false);
@@ -191,7 +191,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtIPServer;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Panel panelColorSelected;
+        private System.Windows.Forms.Panel backgroundColorPanel;
         private System.Windows.Forms.Button btnListen;
         private System.Windows.Forms.Timer timerServer;
     }

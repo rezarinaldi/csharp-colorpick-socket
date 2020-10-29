@@ -45,7 +45,7 @@ namespace ColorPickerSocket_Server
         {
             if(varGlobal.terimapesandiserver.Length > 1)
             {
-                panelColorSelected.BackColor = Color.Transparent;
+                backgroundColorPanel.BackColor = Color.Transparent;
                 string[] data = varGlobal.terimapesandiserver.Trim().Split(',');
                 txtRedNumber.Text = data[0];
                 txtGreenNumber.Text = data[1];
@@ -59,7 +59,7 @@ namespace ColorPickerSocket_Server
                     && Int32.TryParse(txtGreenNumber.Text, out g)
                     && Int32.TryParse(txtBlueNumber.Text, out b))
                 {
-                    panelColorSelected.BackColor = Color.FromArgb(r, g, b);
+                    backgroundColorPanel.BackColor = Color.FromArgb(r, g, b);
                 }
             }
         }
