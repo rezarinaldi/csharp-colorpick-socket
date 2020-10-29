@@ -1,0 +1,20 @@
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.exe.config
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.pdb
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csprojAssemblyReference.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket_Client.Form1.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket_Client.Properties.Resources.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csproj.GenerateResource.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csproj.CoreCompileInputs.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.pdb
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.exe.config
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.exe
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\bin\Debug\ColorPickerSocket-Client.pdb
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csprojAssemblyReference.cache
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket_Client.Form1.resources
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket_Client.Properties.Resources.resources
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csproj.GenerateResource.cache
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.csproj.CoreCompileInputs.cache
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.exe
+E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Client\obj\Debug\ColorPickerSocket-Client.pdb
