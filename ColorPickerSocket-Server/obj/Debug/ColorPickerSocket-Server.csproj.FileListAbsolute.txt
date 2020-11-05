@@ -17,3 +17,13 @@ E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-S
 E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csproj.CoreCompileInputs.cache
 E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.exe
 E:\kuliah\semester5\jaringan\project\CSharpColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.pdb
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.exe.config
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.exe
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.pdb
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csprojAssemblyReference.cache
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket_Server.Properties.Resources.resources
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket_Server.Form1.resources
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csproj.GenerateResource.cache
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csproj.CoreCompileInputs.cache
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.exe
+E:\kuliah\semester5\jaringan\project\csharp-colorpick-socket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.pdb

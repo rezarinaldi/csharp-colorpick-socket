@@ -100,7 +100,7 @@
             // 
             // txtPortServer
             // 
-            this.txtPortServer.Location = new System.Drawing.Point(299, 6);
+            this.txtPortServer.Location = new System.Drawing.Point(299, 10);
             this.txtPortServer.Name = "txtPortServer";
             this.txtPortServer.Size = new System.Drawing.Size(100, 20);
             this.txtPortServer.TabIndex = 16;
@@ -109,7 +109,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(267, 9);
+            this.label2.Location = new System.Drawing.Point(267, 13);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(26, 13);
             this.label2.TabIndex = 15;
@@ -117,7 +117,7 @@
             // 
             // txtIPServer
             // 
-            this.txtIPServer.Location = new System.Drawing.Point(103, 6);
+            this.txtIPServer.Location = new System.Drawing.Point(103, 10);
             this.txtIPServer.Name = "txtIPServer";
             this.txtIPServer.Size = new System.Drawing.Size(100, 20);
             this.txtIPServer.TabIndex = 14;
@@ -126,7 +126,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 9);
+            this.label1.Location = new System.Drawing.Point(39, 13);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(58, 13);
             this.label1.TabIndex = 13;
@@ -142,7 +142,7 @@
             // 
             // btnListen
             // 
-            this.btnListen.Location = new System.Drawing.Point(208, 279);
+            this.btnListen.Location = new System.Drawing.Point(183, 280);
             this.btnListen.Name = "btnListen";
             this.btnListen.Size = new System.Drawing.Size(75, 23);
             this.btnListen.TabIndex = 24;
